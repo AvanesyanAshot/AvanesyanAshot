@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact **Bruh**
 
+### Spotify Playing 🎧
+[<img src="https://novatorem.9teron9.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/evtovqamnwp1kjyfw91nvvyhh?si=A0pQpJs1S72POeqTsEarYw)
+
+
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
