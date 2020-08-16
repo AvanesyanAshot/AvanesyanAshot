@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js Redux**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** **redux**
 
 - 📫 How to reach me **9teron9@gmail.com**
 
@@ -39,4 +39,11 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.9teron9.vercel.app/api?username=AvanesyanAshot&show_icons=true&hide_border=true" />
+
+</details>
 
