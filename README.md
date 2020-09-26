@@ -44,6 +44,8 @@
   
 </p>
 
-  <img height="160em"  align="left" alt="Avanesyan Ashot Github Stats" src="https://github-readme-stats.9teron9.vercel.app/api?username=AvanesyanAshot&theme=monokai&show_icons=true?hide_border=true" />
+<br>
+  <img height="160em" alt="Avanesyan Ashot Github Stats" src="https://github-readme-stats.9teron9.vercel.app/api?username=AvanesyanAshot&theme=monokai&show_icons=true?hide_border=true" />
+  <img height="160em" alt="Avanesyan Ashot Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AvanesyanAshot&theme=monokai&layout=compact" />
 
 
