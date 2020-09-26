@@ -38,14 +38,15 @@
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30"/>
   <img src="https://devicon.dev/devicon.git/icons/slack/slack-original-wordmark.svg" alt="slack" width="30"/>
-  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30"/>
-  
-  
 </p>
 
 <br>
-  <img height="160em" alt="Avanesyan Ashot Github Stats" src="https://github-readme-stats.9teron9.vercel.app/api?username=AvanesyanAshot&theme=monokai&show_icons=true?hide_border=true" />
+
+<div align="left">
+ <img height="160em" alt="Avanesyan Ashot Github Stats" src="https://github-readme-stats.9teron9.vercel.app/api?username=AvanesyanAshot&theme=monokai&show_icons=true?hide_border=true" />
   <img height="160em" alt="Avanesyan Ashot Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AvanesyanAshot&theme=monokai&layout=compact" />
+</div>
+ 
 
 
