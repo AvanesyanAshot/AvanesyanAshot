@@ -11,34 +11,32 @@
 ### 💻 Tech Stack:
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="30"/> 
-  
-  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30"/>
-   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" width="30"/> 
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="30"/> 
+  <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" width="30"/>  
+  <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="30"/> 
+  <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="30"/> 
+  <img src="https://simpleicons.org/icons/sass.svg" alt="sass" width="30"/>
+  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind" width="30"/> 
+  <img src="https://simpleicons.org/icons/react.svg" alt="react" width="30"/>  
+  <img src="https://simpleicons.org/icons/redux.svg" alt="redux" width="30"/> 
+  <img src="https://simpleicons.org/icons/git.svg" alt="git" width="30"/>
+  <img src="https://simpleicons.org/icons/webpack.svg" alt="webpack" width="30"/>
+  <img src="https://simpleicons.org/icons/babel.svg" alt="babel" width="30"/>
+  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" width="30"/>
+  <img src="https://simpleicons.org/icons/express.svg" alt="express" width="30"/>
+  <img src="https://simpleicons.org/icons/docker.svg" alt="docker" width="30"/> 
 </p>
 
 <br />
 
 ### 🛠 Tools:
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" alt="atom" width="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/slack/slack-original-wordmark.svg" alt="slack" width="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30"/>
+  <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode" width="30"/>
+  <img src="https://simpleicons.org/icons/atom.svg" alt="atom" width="30"/>
+  <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="photoshop" width="30"/>
+  <img src="https://simpleicons.org/icons/adobexd.svg" alt="xd" width="30"/>
+  <img src="https://simpleicons.org/icons/slack.svg" alt="slack" width="30"/>
+  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" width="30"/>
 </p>
 
 <br>
