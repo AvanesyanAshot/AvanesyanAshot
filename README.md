@@ -11,32 +11,32 @@
 ### 💻 Tech Stack:
 
 <p align="left">
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="30"/> 
-  <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" width="30"/>  
-  <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="30"/> 
-  <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="30"/> 
-  <img src="https://simpleicons.org/icons/sass.svg" alt="sass" width="30"/>
-  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind" width="30"/> 
-  <img src="https://simpleicons.org/icons/react.svg" alt="react" width="30"/>  
-  <img src="https://simpleicons.org/icons/redux.svg" alt="redux" width="30"/> 
-  <img src="https://simpleicons.org/icons/git.svg" alt="git" width="30"/>
-  <img src="https://simpleicons.org/icons/webpack.svg" alt="webpack" width="30"/>
-  <img src="https://simpleicons.org/icons/babel.svg" alt="babel" width="30"/>
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" width="30"/>
-  <img src="https://simpleicons.org/icons/express.svg" alt="express" width="30"/>
-  <img src="https://simpleicons.org/icons/docker.svg" alt="docker" width="30"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="javascript" width="30"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="30"/>  
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="30"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="30"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="sass" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="tailwind" width="30"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="30"/>  
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/next_js_logo_icon_145038.png" alt="next" width="30"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="webpack" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_babel_icon_130478.png" alt="babel" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="nodejs" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png" alt="express" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="docker" width="30"/> 
 </p>
 
 <br />
 
 ### 🛠 Tools:
 <p align="left">
-  <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode" width="30"/>
-  <img src="https://simpleicons.org/icons/atom.svg" alt="atom" width="30"/>
-  <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="photoshop" width="30"/>
-  <img src="https://simpleicons.org/icons/adobexd.svg" alt="xd" width="30"/>
-  <img src="https://simpleicons.org/icons/slack.svg" alt="slack" width="30"/>
-  <img src="https://simpleicons.org/icons/linux.svg" alt="linux" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/code_103074.png" alt="vscode" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/adobephotoshop_logo_icon_147324.png" alt="photoshop" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" alt="xd" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/slack_icon_130829.png" alt="slack" width="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/linux_icon_130887.png" alt="linux" width="30"/>
 </p>
 
 <br>
